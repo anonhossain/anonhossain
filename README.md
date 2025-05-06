@@ -9,8 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonhossain&label=Profile%20views&color=0e75b6&style=flat" alt="anonhossain" /> </p>
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Dart](https://img.shields.io/badge/Dart-100%25-brightgreen)
-![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)
 
 ## About Me
 
