@@ -2,13 +2,13 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Anon Hossain</h1>
+<h1 align="center">Hi, I'm Anon Hossain</h1>
 
 <div align="center">
   <img src="https://github.com/anonhossain/anonhossain/blob/main/AH.jpg" alt="DataScience Banner">
 </div>
 
-<h2 align="center">Focused on Data Analysis, Data Science, Machiel Learning, Deep Learning From Bangladesh</h2>
+<h2 align="center">Focused on Data Analysis, Data Science, Machine Learning, Deep Learning From Bangladesh</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonhossain&label=Profile%20views&color=0e75b6&style=flat" alt="anonhossain" /> </p>
 
