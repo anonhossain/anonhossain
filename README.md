@@ -8,6 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonhossain&label=Profile%20views&color=0e75b6&style=flat" alt="anonhossain" /> </p>
 
+## About Me
+
 - 🔭 I’m currently working on [CV Project using AI for HR and Candidate](https://github.com/anonhossain/cvmatchmailquiz)
 
 - 🌱 I’m currently learning **Django, Ensemble Learning**
@@ -41,3 +43,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonhossain&show_icons=true&locale=en&layout=compact&theme=algolia&border_radius=15" alt="anonhossain" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonhossain&show_icons=true&locale=en&theme=algolia&border_radius=15" alt="GitHub Stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonhossain&theme=algolia&border_radius=15"" alt="anonhossain" /></p>
+
+
+## 🤝 Let's Connect
+
+- 🤖 I'm open to collaborating on **AI, ML, and Data Science projects.**
+- 👨‍💻 Let me know if you’d like to **collaborate** or if I can contribute to your project.
+- 💼 I’m actively looking for **internships**, **research opportunities**, or **freelance work** in Data Science or AI.
+- 🌍 Open to remote and on-site roles.
+
+## 🌐 Languages
+
+- Bengali (Native)
+- English (Professional)
+
