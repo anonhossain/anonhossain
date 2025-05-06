@@ -18,6 +18,14 @@
 
 - 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/1gW5ZbLOHwX3XNe_Ia60tuzutAj_PrMl2/view?usp=drive_link)
 
+## Certificate
+- 📃 IBM Data Science Professional Course
+
+## Acheivements
+
+- 🏆 First Runner-up in the **3-Minute Thesis Competition**
+- 🏅 Second Runer-up at the  **4th DIU Data Science Summit 2024 National Project Showcase Competition.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anon-hossain-29251b2b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anon-hossain-29251b2b5/" height="30" width="40" /></a>
