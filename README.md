@@ -19,11 +19,13 @@
 - 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/1gW5ZbLOHwX3XNe_Ia60tuzutAj_PrMl2/view?usp=drive_link)
 
 ## Certificate
-- 📃 IBM Data Science Professional Course
+- 📃 [IBM Data Science Professional Course](https://drive.google.com/file/d/1VtCkLmB7YLRBJwC1m8AMv81Qc1TDzl7H/view?usp=drive_link)
+- 📃 [**3-Minute Thesis Competition**](https://drive.google.com/file/d/1kt3UmUoQ3eSFawv4k6i0_lUD5zruA_-k/view?usp=drive_link)
+- 📃 [4th DIU Data Science Summit 2024 National Project Showcase Competition.](https://drive.google.com/file/d/1J6p4Z_fgaK5_dHFCqqrP4WJYCOyWNWjQ/view?usp=drive_link)
 
 ## Acheivements
 
-- 🏆 First Runner-up in the **3-Minute Thesis Competition**
+- 🏆 First Runner-up in the **3-Minute Thesis Competition.**
 - 🏅 Second Runer-up at the  **4th DIU Data Science Summit 2024 National Project Showcase Competition.**
 
 <h3 align="left">Connect with me:</h3>
