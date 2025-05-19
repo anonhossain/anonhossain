@@ -28,8 +28,8 @@
 
 ## Certificate
 - 📃 [IBM Data Science Professional Course](https://drive.google.com/file/d/1VtCkLmB7YLRBJwC1m8AMv81Qc1TDzl7H/view?usp=drive_link)
-- 📃 [**3-Minute Thesis Competition**](https://drive.google.com/file/d/1kt3UmUoQ3eSFawv4k6i0_lUD5zruA_-k/view?usp=drive_link)
-- 📃 [4th DIU Data Science Summit 2024 National Project Showcase Competition.](https://drive.google.com/file/d/1J6p4Z_fgaK5_dHFCqqrP4WJYCOyWNWjQ/view?usp=drive_link)
+- 📃 [**3-Minute Thesis Competition**](https://drive.google.com/drive/folders/1cy7D8ak-hrf6-QrL09IYDtLNBBPXvgHf?usp=sharing)
+- 📃 [4th DIU Data Science Summit 2024 National Project Showcase Competition.](https://drive.google.com/drive/folders/14jFWvqIX4s9yolZLxD-oU6sflQFE5Ieo?usp=sharing)
 
 ## Acheivements
 
