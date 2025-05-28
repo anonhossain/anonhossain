@@ -18,13 +18,15 @@
 
 - 🔭 I’m currently working on [CV Project using AI for HR and Candidate](https://github.com/anonhossain/cvmatchmailquiz)
 
-- 🌱 I’m currently learning **Django, Ensemble Learning**
+- 🌱 I’m currently learning **Ensemble Learning, Transformer Architecture**
 
-- 💬 Ask me about **Deep Learning, Machine Learning, Data Analysis**
+- 💬 Ask me about **Deep Learning, Machine Learning, Data Analysis, Data Visualization**
 
 - 📫 How to reach me **anonhossain1710@gmail.com**
 
 - 📄 Know about my experiences [MY CV](https://drive.google.com/drive/u/2/folders/1hQOGOdxdrbHbmKAQ3F3UFb64iPkMVJzH)
+
+- 📃 My Published Article on [From Scratch to Smart: Teaching AI Without Teaching It](https://medium.com/@anonhossain1710/from-scratch-to-smart-teaching-ai-without-teaching-it-cf2133d3d362) 
 
 ## Certificate
 - 📃 [IBM Data Science Professional Course](https://drive.google.com/file/d/1VtCkLmB7YLRBJwC1m8AMv81Qc1TDzl7H/view?usp=drive_link)
