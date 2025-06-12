@@ -38,6 +38,10 @@
 - 🏆 First Runner-up in the **3-Minute Thesis Competition.**
 - 🏅 Second Runer-up at the  **4th DIU Data Science Summit 2024 National Project Showcase Competition.**
 
+## Blog Post
+- ✍️ [Absolute Zero Reasoner](https://medium.com/@anonhossain1710/from-scratch-to-smart-teaching-ai-without-teaching-it-cf2133d3d362)
+- ✍️ []
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anon-hossain-29251b2b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anon-hossain-29251b2b5/" height="30" width="40" /></a>
