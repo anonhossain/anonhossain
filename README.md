@@ -41,6 +41,7 @@
 ## Blog Post
 - ✍️ [Absolute Zero Reasoner](https://medium.com/@anonhossain1710/from-scratch-to-smart-teaching-ai-without-teaching-it-cf2133d3d362)
 - ✍️ [How Transformers Revolutionized NLP, AI and Generative Models](https://medium.com/@anonhossain1710/how-transformers-revolutionized-nlp-ai-and-generative-models-62c7ed0d6c7f)
+- ✍️ [Breaking Down Self-Attention — Brains Behind Transformers](https://medium.com/@anonhossain1710/breaking-down-self-attention-brains-behind-transformers-0e3a63e59d22)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
