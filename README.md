@@ -44,6 +44,7 @@
 - ✍️ [How Transformers Revolutionized NLP, AI and Generative Models](https://medium.com/@anonhossain1710/how-transformers-revolutionized-nlp-ai-and-generative-models-62c7ed0d6c7f)
 - ✍️ [Absolute Zero Reasoner](https://medium.com/@anonhossain1710/from-scratch-to-smart-teaching-ai-without-teaching-it-cf2133d3d362)
 - ✍️ [SQL and Normalization](https://medium.com/@anonhossain1710/sql-and-normalization-you-need-283f3ce6e326)
+- ✍️ [DA vs DS vs DE vs BA vs MLOps: Understanding the Real Differences in Data Careers](https://medium.com/@anonhossain1710/da-vs-ds-vs-de-vs-ba-vs-mlops-understanding-the-real-differences-in-data-careers-f2b36b563b3b)
 
 
 
