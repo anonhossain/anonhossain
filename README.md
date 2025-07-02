@@ -67,7 +67,7 @@
 
 - 🤖 I'm open to collaborating on **AI, ML, and Data Science projects.**
 - 👨‍💻 Let me know if you’d like to **collaborate** or if I can contribute to your project.
-- 💼 I’m actively looking for **internships**, **research opportunities**, or **freelance work** in Data Science or AI.
+- 💼 I’m actively looking for **research opportunities**, or **freelance work** in Data Science or AI.
 - 🌍 Open to remote and on-site roles.
 
 ## 🌐 Languages
