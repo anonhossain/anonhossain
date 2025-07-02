@@ -16,6 +16,8 @@
 
 ## About Me
 
+- 🧑‍💼 I’m currently working at [Join Venture AI](https://www.linkedin.com/company/jvai/posts/?feedView=all)
+
 - 🔭 I’m currently working on [CV Project using AI for HR and Candidate](https://github.com/anonhossain/cvmatchmailquiz)
 
 - 🌱 I’m currently learning **Ensemble Learning, Transformer Architecture**
