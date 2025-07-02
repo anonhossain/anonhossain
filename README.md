@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Anon Hossain</h1>
 
 <div align="center">
-  <img src="https://github.com/anonhossain/anonhossain/blob/main/AH.jpg" alt="DataScience Banner">
+  <img src="https://github.com/anonhossain/anonhossain/blob/main/Github Professional Banner.png" alt="DataScience Banner">
 </div>
 
 <h2 align="center">Focused on AI, Data Science, Deep Learning From Bangladesh</h2>
