@@ -58,19 +58,18 @@
 
 <h3 align="left">Skills:</h3>
 
-**Technical:** Python, Seaborn, Fast API, Streamlit, Google Colab, Orange ML, Machine Learning, Deep Learning,
- Notion, MS Office.
+- **Technical:** `Python`, `FastAPI` , `Seaborn`, `Streamlit`, `Google Colab`, `Orange ML`, `Machine Learning`, `Deep Learning`,
+ `Notion`, `MS Office`.
 
-**Analythical:** Data Analysis, Data Pre-processing, Data Visualization, Predictive
-Modeling, Statistical Analysis, Reporting, KPI Tracking, Business Intelligence, Trend Analysis, Power BI, Tableau,
+- **Analythical:** `Data Analysis`, `Data Pre-processing`, `Data Visualization`, `Predictive
+Modeling`, `Statistical Analysis`, `Reporting`, `KPI Tracking`, `Business Intelligence`, `Trend Analysis`, `Power BI`, `Tableau`
 
-**Soft Skills:** Project Management (Scope, Time, Cost, Risk Management), Leadership, Stake-
-holder Communication, Team Collaboration, Problem Solving, Strategic Planning, Critical
-Thinking.
+- **Soft Skills:** `Project Management (Scope, Time, Cost, Risk Management)`, `Leadership`, `Stake-
+holder Communication`, `Team Collaboration`, `Problem Solving`, `Strategic Planning`, `Critical
+Thinking`.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonhossain&show_icons=true&locale=en&layout=compact&theme=algolia&border_radius=15" alt="anonhossain" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonhossain&show_icons=true&locale=en&theme=algolia&border_radius=15" alt="GitHub Stats" /></p>
-
 
 
 ## 🤝 Let's Connect
