@@ -57,7 +57,7 @@
 </p>
 
 <h3 align="left">Skills:</h3>
-**Technical:** 'Python', Seaborn, Fast API, Streamlit, Google Colab, Orange ML, Machine Learning, Deep Learning,
+**Technical:** `Python`, Seaborn, Fast API, Streamlit, Google Colab, Orange ML, Machine Learning, Deep Learning,
 Power BI, Tableau, Notion, MS Office.
 
 **Analythical:** Data Analysis, Data Pre-processing, Data Visualization, Predictive
