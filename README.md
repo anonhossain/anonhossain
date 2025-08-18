@@ -59,10 +59,10 @@
 <h3 align="left">Skills:</h3>
 
 **Technical:** Python, Seaborn, Fast API, Streamlit, Google Colab, Orange ML, Machine Learning, Deep Learning,
-Power BI, Tableau, Notion, MS Office.
+ Notion, MS Office.
 
 **Analythical:** Data Analysis, Data Pre-processing, Data Visualization, Predictive
-Modeling, Statistical Analysis, Reporting, KPI Tracking, Business Intelligence, Trend Analysis
+Modeling, Statistical Analysis, Reporting, KPI Tracking, Business Intelligence, Trend Analysis, Power BI, Tableau,
 
 **Soft Skills:** Project Management (Scope, Time, Cost, Risk Management), Leadership, Stake-
 holder Communication, Team Collaboration, Problem Solving, Strategic Planning, Critical
