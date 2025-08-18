@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonhossain&label=Profile%20views&color=0e75b6&style=flat" alt="anonhossain" /> </p>
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
+---
 ## About Me
 
 - 🧑‍💼 I’m currently working at [Join Venture AI](https://www.linkedin.com/company/jvai/posts/?feedView=all)
@@ -67,10 +67,6 @@ Modeling`, `Statistical Analysis`, `Reporting`, `KPI Tracking`, `Business Intell
 - **Soft Skills:** `Project Management (Scope, Time, Cost, Risk Management)`, `Leadership`, `Stake-
 holder Communication`, `Team Collaboration`, `Problem Solving`, `Strategic Planning`, `Critical
 Thinking`.
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonhossain&show_icons=true&locale=en&layout=compact&theme=algolia&border_radius=15" alt="anonhossain" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonhossain&show_icons=true&locale=en&theme=algolia&border_radius=15" alt="GitHub Stats" /></p>
-
 
 ## 🤝 Let's Connect
 
