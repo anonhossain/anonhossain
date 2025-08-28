@@ -48,7 +48,7 @@
 - ✍️ [Absolute Zero Reasoner](https://medium.com/@anonhossain1710/from-scratch-to-smart-teaching-ai-without-teaching-it-cf2133d3d362)
 - ✍️ [SQL and Normalization](https://medium.com/@anonhossain1710/sql-and-normalization-you-need-283f3ce6e326)
 - ✍️ [DA vs DS vs DE vs BA vs MLOps: Understanding the Real Differences in Data Careers](https://medium.com/@anonhossain1710/da-vs-ds-vs-de-vs-ba-vs-mlops-understanding-the-real-differences-in-data-careers-f2b36b563b3b)
-
+- ✍️ [Docker for all](https://medium.com/@anonhossain1710/docker-for-all-bb486773f4df)
 
 
 <h3 align="left">Connect with me:</h3>
