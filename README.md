@@ -35,6 +35,7 @@
 - 📃 [**3-Minute Thesis Competition**](https://drive.google.com/drive/folders/1cy7D8ak-hrf6-QrL09IYDtLNBBPXvgHf?usp=sharing)
 - 📃 [AI+ Prompt Engineer](https://drive.google.com/file/d/1ayYlvOi_4EezvIrf1ZnWWxiWD8Vdfpke/view?usp=drive_link)
 - 📃 [4th DIU Data Science Summit 2024 National Project Showcase Competition.](https://drive.google.com/drive/folders/14jFWvqIX4s9yolZLxD-oU6sflQFE5Ieo?usp=sharing)
+- 📃 [Understanding Generative AI: A Practical Breakdown](https://medium.com/@anonhossain1710/understanding-generative-ai-a-practical-breakdown-ff479b7daca9)
 
 ## Acheivements
 
