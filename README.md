@@ -35,7 +35,7 @@
 - 📃 [**3-Minute Thesis Competition**](https://drive.google.com/drive/folders/1cy7D8ak-hrf6-QrL09IYDtLNBBPXvgHf?usp=sharing)
 - 📃 [AI+ Prompt Engineer](https://drive.google.com/file/d/1ayYlvOi_4EezvIrf1ZnWWxiWD8Vdfpke/view?usp=drive_link)
 - 📃 [4th DIU Data Science Summit 2024 National Project Showcase Competition.](https://drive.google.com/drive/folders/14jFWvqIX4s9yolZLxD-oU6sflQFE5Ieo?usp=sharing)
-- 📃 [Understanding Generative AI: A Practical Breakdown](https://medium.com/@anonhossain1710/understanding-generative-ai-a-practical-breakdown-ff479b7daca9)
+
 
 ## Acheivements
 
@@ -51,6 +51,7 @@
 - ✍️ [SQL and Normalization](https://medium.com/@anonhossain1710/sql-and-normalization-you-need-283f3ce6e326)
 - ✍️ [DA vs DS vs DE vs BA vs MLOps: Understanding the Real Differences in Data Careers](https://medium.com/@anonhossain1710/da-vs-ds-vs-de-vs-ba-vs-mlops-understanding-the-real-differences-in-data-careers-f2b36b563b3b)
 - ✍️ [Docker for all](https://medium.com/@anonhossain1710/docker-for-all-bb486773f4df)
+- ✍️ [Understanding Generative AI: A Practical Breakdown](https://medium.com/@anonhossain1710/understanding-generative-ai-a-practical-breakdown-ff479b7daca9)
 
 
 <h3 align="left">Connect with me:</h3>
