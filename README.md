@@ -36,7 +36,6 @@
 - 📃 [AI+ Prompt Engineer](https://drive.google.com/file/d/1ayYlvOi_4EezvIrf1ZnWWxiWD8Vdfpke/view?usp=drive_link)
 - 📃 [4th DIU Data Science Summit 2024 National Project Showcase Competition.](https://drive.google.com/drive/folders/14jFWvqIX4s9yolZLxD-oU6sflQFE5Ieo?usp=sharing)
 
-
 ## Acheivements
 
 - 🏆 First Runner-up in the **3-Minute Thesis Competition.**
