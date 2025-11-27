@@ -10,7 +10,6 @@
 
 <h2 align="center">Focused on AI, Data Science, Deep Learning From Bangladesh</h2>
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ---
 ## About Me
 
