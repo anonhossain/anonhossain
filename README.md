@@ -51,6 +51,7 @@
 - ✍️ [DA vs DS vs DE vs BA vs MLOps: Understanding the Real Differences in Data Careers](https://medium.com/@anonhossain1710/da-vs-ds-vs-de-vs-ba-vs-mlops-understanding-the-real-differences-in-data-careers-f2b36b563b3b)
 - ✍️ [Docker for all](https://medium.com/@anonhossain1710/docker-for-all-bb486773f4df)
 - ✍️ [Understanding Generative AI: A Practical Breakdown](https://medium.com/@anonhossain1710/understanding-generative-ai-a-practical-breakdown-ff479b7daca9)
+- ✍️ [Understanding LoRA, QLoRA, and Quantization in LLM Fine-Tuning](https://medium.com/@anonhossain1710/understanding-lora-qlora-and-quantization-in-llm-fine-tuning-b9a7e88e6d4d)
 
 
 <h3 align="left">Connect with me:</h3>
