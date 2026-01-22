@@ -35,6 +35,8 @@
 
 ## [HuggingFace](https://huggingface.co/anonhs)
 - [Cancer Classification](https://huggingface.co/anonhs/vit-cancer-classifier)
+- [Cloths Qlora Model](https://huggingface.co/anonhs/sdxl-kream-clothes-lora)
+- [Cloth Qlora Model Dataset](https://huggingface.co/datasets/anonhs/kream-clothes-dataset)
 
 ## Acheivements
 
@@ -44,6 +46,7 @@
 ## [Articles](https://medium.com/@anonhossain1710)
 
 - ✍️ [Breaking Down Self-Attention — Brains Behind Transformers](https://medium.com/@anonhossain1710/breaking-down-self-attention-brains-behind-transformers-0e3a63e59d22)
+- ✍️ [How I Fine-Tuned SDXL Using QLoRA on RunPod](https://medium.com/@anonhossain1710/how-i-fine-tuned-sdxl-using-qlora-on-runpod-7a8a455adc26)
 - ✍️ [How Transformers Revolutionized NLP, AI and Generative Models](https://medium.com/@anonhossain1710/how-transformers-revolutionized-nlp-ai-and-generative-models-62c7ed0d6c7f)
 - ✍️ [Mixture of Recursions (MoR): A Smarter, Lighter Transformer](https://medium.com/@anonhossain1710/mixture-of-recursions-mor-a-smarter-lighter-transformer-720ee76b705b)
 - ✍️ [Absolute Zero Reasoner](https://medium.com/@anonhossain1710/from-scratch-to-smart-teaching-ai-without-teaching-it-cf2133d3d362)
