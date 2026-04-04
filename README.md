@@ -21,7 +21,7 @@
 ## Skills
 
 - **Technical:** `Python`, `FastAPI` , `Seaborn`, `Streamlit`, `Google Colab`, `Orange ML`, `Machine Learning`, `Deep Learning`,
- `Notion`, `MS Office`.
+ `Notion`, `MS Office`. `Open-Claw`
 
 - **Analythical:** `Data Analysis`, `Data Pre-processing`, `Data Visualization`, `Predictive
 Modeling`, `Statistical Analysis`, `Reporting`, `KPI Tracking`, `Business Intelligence`, `Trend Analysis`, `Power BI`, `Tableau`
