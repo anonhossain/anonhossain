@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [MY CV](https://drive.google.com/drive/u/2/folders/1hQOGOdxdrbHbmKAQ3F3UFb64iPkMVJzH)
 
-<h3 align="left">Skills:</h3>
+## Skills
 
 - **Technical:** `Python`, `FastAPI` , `Seaborn`, `Streamlit`, `Google Colab`, `Orange ML`, `Machine Learning`, `Deep Learning`,
  `Notion`, `MS Office`.
