@@ -18,6 +18,18 @@
 
 - 📄 Know about my experiences [MY CV](https://drive.google.com/drive/u/2/folders/1hQOGOdxdrbHbmKAQ3F3UFb64iPkMVJzH)
 
+<h3 align="left">Skills:</h3>
+
+- **Technical:** `Python`, `FastAPI` , `Seaborn`, `Streamlit`, `Google Colab`, `Orange ML`, `Machine Learning`, `Deep Learning`,
+ `Notion`, `MS Office`.
+
+- **Analythical:** `Data Analysis`, `Data Pre-processing`, `Data Visualization`, `Predictive
+Modeling`, `Statistical Analysis`, `Reporting`, `KPI Tracking`, `Business Intelligence`, `Trend Analysis`, `Power BI`, `Tableau`
+
+- **Soft Skills:** `Project Management (Scope, Time, Cost, Risk Management)`, `Leadership`, `Stake-
+holder Communication`, `Team Collaboration`, `Problem Solving`, `Strategic Planning`, `Critical
+Thinking`.
+
 ## Certificate
 - 📃 [IBM Data Science Professional Course](https://drive.google.com/file/d/1VtCkLmB7YLRBJwC1m8AMv81Qc1TDzl7H/view?usp=drive_link)
 - 📃 [**3-Minute Thesis Competition**](https://drive.google.com/drive/folders/1cy7D8ak-hrf6-QrL09IYDtLNBBPXvgHf?usp=sharing)
@@ -54,17 +66,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/anonhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/anonhossain" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Skills:</h3>
 
-- **Technical:** `Python`, `FastAPI` , `Seaborn`, `Streamlit`, `Google Colab`, `Orange ML`, `Machine Learning`, `Deep Learning`,
- `Notion`, `MS Office`.
-
-- **Analythical:** `Data Analysis`, `Data Pre-processing`, `Data Visualization`, `Predictive
-Modeling`, `Statistical Analysis`, `Reporting`, `KPI Tracking`, `Business Intelligence`, `Trend Analysis`, `Power BI`, `Tableau`
-
-- **Soft Skills:** `Project Management (Scope, Time, Cost, Risk Management)`, `Leadership`, `Stake-
-holder Communication`, `Team Collaboration`, `Problem Solving`, `Strategic Planning`, `Critical
-Thinking`.
 
 ## 🤝 Let's Connect
 
