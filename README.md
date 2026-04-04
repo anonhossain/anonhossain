@@ -2,15 +2,6 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 
-<h1 align="center">Hi, I'm Anon Hossain</h1>
-
-<div align="center">
-  <img src="https://github.com/anonhossain/anonhossain/blob/main/Github Professional Banner.png" alt="DataScience Banner">
-</div>
-
-<h2 align="center">Focused on AI, Data Science, Deep Learning From Bangladesh</h2>
-
----
 ## About Me
 
 - 🧑‍💼 I’m currently working at [Join Venture AI](https://www.linkedin.com/company/jvai/posts/?feedView=all)
