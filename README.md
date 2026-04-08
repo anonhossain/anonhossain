@@ -20,8 +20,7 @@
 
 ## Skills
 
-- **Technical:**  `Open-Claw`, `n8n`, `Google Clould Platform`, `Open & Closed Source Embeddings and LLM`,`Python`, `FastAPI` , `Seaborn`, `Streamlit`, `Google Colab`, `Orange ML`, `Machine Learning`, `Deep Learning`,
- `Notion`, `MS Office`.
+- **Technical:**  `Open-Claw`, `n8n`, `Google Clould Platform`, `Open & Closed Source Embeddings and LLM`, `HuggingFace`, `Ollama`, `Python`, `FastAPI` , `Seaborn`, `Streamlit`, `Google Colab`, `Orange ML`, `Machine Learning`, `Deep Learning`, `Notion`, `MS Office`.
 
 - **Analythical:** `Data Analysis`, `Data Pre-processing`, `Data Visualization`, `Predictive
 Modeling`, `Statistical Analysis`, `Reporting`, `KPI Tracking`, `Business Intelligence`, `Trend Analysis`, `Power BI`, `Tableau`
