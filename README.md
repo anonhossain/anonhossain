@@ -4,11 +4,11 @@
 
 ## About Me
 
+Have 4+ years of experience building conversational, chat bot, voice clone, teaching bots, quiz generators, course design systems, reservation, and audio/video content shorteners agents. Experienced with Model Evaluation, AI Security, AI Governance, PII, RAG pipelines, open and closed-source LLMs, AI Frameworks,  Hallucination Mitigation, AI Model Cost Optimization, Token Optimization, Model Deployment, Monitoring and Token Utilization Auditing, Fault Tolerant Architecture, AI Automation and Structured Output. I follow clean coding practices and orchestration-based design patterns to build scalable AI workflows while collaborating with AI, backend, and DevOps teams.
+
 - 🧑‍💼 I’m currently working at [Join Venture AI](https://www.linkedin.com/company/jvai/posts/?feedView=all)
 
 - 🔭 I’m currently working on [CV Project using AI for HR and Candidate](https://github.com/anonhossain/cvmatchmailquiz)
-
-- 🌱 I’m currently learning **Ensemble Learning, Transformer Architecture**
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Data Analysis, Data Visualization**
 
