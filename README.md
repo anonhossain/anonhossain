@@ -3,19 +3,13 @@
 </div>
 
 ## About Me
-
-Have 4+ years of experience building conversational, chat bot, voice clone, teaching bots, quiz generators, course design systems, reservation, and audio/video content shorteners agents. Experienced with Model Evaluation, AI Security, AI Governance, PII, RAG pipelines, open and closed-source LLMs, AI Frameworks,  Hallucination Mitigation, AI Model Cost Optimization, Token Optimization, Model Deployment, Monitoring and Token Utilization Auditing, Fault Tolerant Architecture, AI Automation and Structured Output. I follow clean coding practices and orchestration-based design patterns to build scalable AI workflows while collaborating with AI, backend, and DevOps teams.
+AWS Certified AI Engineer with 4+ years of experience in researching, designing, and building production-ready AI systems. I specialize in developing secure, cost-efficient, scalable, and reliable LLM applications, with a strong focus on RAG, AI automation, model evaluation, hallucination mitigation, monitoring, and workflow orchestration. I focus on transforming AI research into maintainable production systems through clean engineering practices, strong architectures, and measurable evaluation while collaborating with AI, Backend, and DevOps teams to deploy, optimize, and continuously improve AI solutions.
 
 - 🧑‍💼 I’m currently working at [Join Venture AI](https://www.linkedin.com/company/jvai/posts/?feedView=all)
-
 - 🔭 I’m currently working on [CV Project using AI for HR and Candidate](https://github.com/anonhossain/cvmatchmailquiz)
-
 - 💬 Ask me about **Deep Learning, Machine Learning, Data Analysis, Data Visualization**
-
 - 📫 How to reach me **anonhossain1710@gmail.com**
-
 - 📃 My Published Article on [On AI and Other topics](https://medium.com/@anonhossain1710) 
-
 - 📄 Know about my experiences [MY CV](https://drive.google.com/drive/u/2/folders/1hQOGOdxdrbHbmKAQ3F3UFb64iPkMVJzH)
 
 ## Skills
@@ -30,6 +24,7 @@ holder Communication`, `Team Collaboration`, `Problem Solving`, `Strategic Plann
 Thinking`.
 
 ## Certificate
+- 📃 [AWS Certified AI Practitioner](https://drive.google.com/file/d/1eENw2eb-VzFJKk6abnuKrDHOjkw7yVs6/view?usp=sharing)
 - 📃 [IBM Data Science Professional Course](https://drive.google.com/file/d/1VtCkLmB7YLRBJwC1m8AMv81Qc1TDzl7H/view?usp=drive_link)
 - 📃 [**3-Minute Thesis Competition**](https://drive.google.com/drive/folders/1cy7D8ak-hrf6-QrL09IYDtLNBBPXvgHf?usp=sharing)
 - 📃 [AI+ Prompt Engineer](https://drive.google.com/file/d/1ayYlvOi_4EezvIrf1ZnWWxiWD8Vdfpke/view?usp=drive_link)
