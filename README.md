@@ -25,6 +25,7 @@ Thinking`.
 
 ## Certificate
 - 📃 [AWS Certified AI Practitioner](https://drive.google.com/file/d/1eENw2eb-VzFJKk6abnuKrDHOjkw7yVs6/view?usp=sharing)
+- 📃 [IBM Systems & Solutions Architect](https://drive.google.com/file/d/1x_uzV7-pCdTj_I8Hb2Qb_RNwqoEYUuCp/view?usp=sharing)
 - 📃 [IBM Data Science Professional Course](https://drive.google.com/file/d/1VtCkLmB7YLRBJwC1m8AMv81Qc1TDzl7H/view?usp=drive_link)
 - 📃 [**3-Minute Thesis Competition**](https://drive.google.com/drive/folders/1cy7D8ak-hrf6-QrL09IYDtLNBBPXvgHf?usp=sharing)
 - 📃 [AI+ Prompt Engineer](https://drive.google.com/file/d/1ayYlvOi_4EezvIrf1ZnWWxiWD8Vdfpke/view?usp=drive_link)
