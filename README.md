@@ -5,7 +5,6 @@
 ## About Me
 AWS Certified AI Engineer with 4+ years of experience in researching, designing, and building production-ready AI systems. I specialize in developing secure, cost-efficient, scalable, and reliable LLM applications, with a strong focus on RAG, AI automation, model evaluation, hallucination mitigation, monitoring, and workflow orchestration. I focus on transforming AI research into maintainable production systems through clean engineering practices, strong architectures, and measurable evaluation while collaborating with AI, Backend, and DevOps teams to deploy, optimize, and continuously improve AI solutions.
 
-- 🧑‍💼 I’m currently working at [Join Venture AI](https://www.linkedin.com/company/jvai/posts/?feedView=all)
 - 🔭 I’m currently working on [CV Project using AI for HR and Candidate](https://github.com/anonhossain/cvmatchmailquiz)
 - 💬 Ask me about **Deep Learning, Machine Learning, Data Analysis, Data Visualization**
 - 📫 How to reach me **anonhossain1710@gmail.com**
