@@ -9,7 +9,6 @@ AWS Certified AI Engineer with 4+ years of experience in researching, designing,
 - 💬 Ask me about **Deep Learning, Machine Learning, Data Analysis, Data Visualization**
 - 📫 How to reach me **anonhossain1710@gmail.com**
 - 📃 My Published Article on [On AI and Other topics](https://medium.com/@anonhossain1710) 
-- 📄 Know about my experiences [MY CV](https://drive.google.com/drive/u/2/folders/1hQOGOdxdrbHbmKAQ3F3UFb64iPkMVJzH)
 
 ## Skills
 
